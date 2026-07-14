@@ -1,2 +1,0 @@
-pymssql>=2.2.11
-supabase>=2.9.0
